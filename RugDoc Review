@@ -1,0 +1,11 @@
+RugDoc Review
+
+Fullsail fork with early harvest bonus very similar to Polyce and Polypingu.
+
+Each farm pool has a setting to determine if it gets 15% reward for users who stake early. This reward lasts for 604800 blocks, which is about 14 days on Polygon.
+Deposit fees capped at 4%.
+8BALL token has a 1% burn fee that can be turned on or off (currently off). Staking will subtract 1% from user’s balance regardless.
+Not setup yet (no pools have been added) and not under timelock, so check interactions.
+
+
+Link: https://rugdoc.io/project/8ball-finance/
